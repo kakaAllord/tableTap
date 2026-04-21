@@ -26,9 +26,16 @@ To test the full loop locally, follow these steps in order:
 
 ### 1. Clone & Setup
 ```bash
-git clone git@github.com:kakaAllord/tableTap.git
+git clone --recursive git@github.com:kakaAllord/tableTap.git
 cd tableTap
 ```
+**[OR]**
+```bash
+git clone git@github.com:kakaAllord/tableTap.git
+cd tableTap
+git submodule update --init --recursive
+```
+
 
 ### 2. Start the Engine (Server)
 ```bash
