@@ -1,0 +1,9 @@
+[submodule "tableTap-staff"]
+	path = tableTap-staff
+	url = https://github.com/kakaAllord/tableTap-staff.git
+[submodule "tableTap-customer"]
+	path = tableTap-customer
+	url = https://github.com/kakaAllord/tableTap-customer.git
+[submodule "tableTap-server"]
+	path = tableTap-server
+	url = https://github.com/kakaAllord/tableTap-server.git
